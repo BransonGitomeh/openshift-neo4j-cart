@@ -23,4 +23,4 @@ Endpoints:
     Private-Port:      21212
     Public-Port-Name:  PORT
 
-Source-Url: https://github.com/abloos/openshift-neo4j-cart.git
+Source-Url: https://github.com/BransonGitomeh/openshift-neo4j-cart
